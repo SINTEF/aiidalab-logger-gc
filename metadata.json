@@ -1,0 +1,8 @@
+{
+    "title": "AiiDA Lab extension for aiida-logger-gc",
+    "description": "A basic graphical user interface for the aiida-logger-gc",
+    "authors": "SINTEF",
+    "version": "0.1",
+    "logo": "miscellaneous/logos/aiidalab.png",
+    "state": "development"
+}
